@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IncDec</string>
+    <string name="incdec">Increment And Decrement of Integers</string>
+    <string name="action_settings">Settings</string>
+    <string name="incr">Increment</string>
+    <string name="decr">Decrement</string>
+
+</resources>
